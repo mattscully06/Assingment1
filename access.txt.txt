@@ -1,0 +1,5 @@
+homepageurl: https://v.je/index.php
+adminuser: mscully00@gmail.com
+adminpass: password
+nonadminuser: Tom@gmail.com
+nonadminpassword: password
